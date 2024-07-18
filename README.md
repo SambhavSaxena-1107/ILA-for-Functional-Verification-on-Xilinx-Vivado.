@@ -1,1 +1,2 @@
 # ILA-for-Functional-Verification-on-Xilinx-Vivado.
+The Integrated Logic Analyzer (ILA) in Xilinx Vivado is a powerful debugging tool for functional verification of FPGA designs. It allows real-time capture and analysis of internal signals, providing deep insights into design behavior. By embedding the ILA core into the FPGA fabric, users can monitor and capture signal data based on specific trigger conditions, facilitating efficient debugging and validation of complex designs directly on the hardware, thus significantly enhancing the development process.
